@@ -1,0 +1,6 @@
+{
+  "name": "AI Harness Orchestrator",
+  "description": "Multi-model LLM router (Claude, GPT-4o, Gemini, Grok) with Document RAG, Gmail integration, web search, cost tracking, and session memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
